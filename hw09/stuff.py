@@ -25,6 +25,3 @@ def fib(n):
 
 print fib(1)
 print fib(2)
-print fib(3)
-print fib(4)
-print fib(5)
